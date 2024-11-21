@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Tugas Kuliah\\Lab-PSD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|s:\\tugas kuliah\\lab-psd\\lab\\repository\\makeuprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\makeuprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\managemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\managemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\managemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\managemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\insert\\makeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\insert\\makeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\insert\\brand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\insert\\brand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\insert\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\insert\\brand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\handler\\typehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\handler\\typehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\models\\labproject.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\models\\labproject.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\models\\labproject.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\models\\labproject.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\models\\labproject.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\models\\labproject.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\views\\update\\makeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\views\\update\\makeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\typerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\typerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\transactionheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\transactionheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\transactiondetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\transactiondetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|S:\\Tugas Kuliah\\Lab-PSD\\lab\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0A08FD-6BDA-4A06-93A9-2059977F1A59}|Lab\\Lab.csproj|solutionrelative:lab\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MakeUpRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\MakeUpRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\MakeUpRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\MakeUpRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\MakeUpRepo.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MakeUpController.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Controller\\MakeUpController.cs",
+              "RelativeDocumentMoniker": "Lab\\Controller\\MakeUpController.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Controller\\MakeUpController.cs",
+              "RelativeToolTip": "Lab\\Controller\\MakeUpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:45:37.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MakeupHandler.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Handler\\MakeupHandler.cs",
+              "RelativeDocumentMoniker": "Lab\\Handler\\MakeupHandler.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Handler\\MakeupHandler.cs",
+              "RelativeToolTip": "Lab\\Handler\\MakeupHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:39:18.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Register.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\Register.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Register.aspx",
+              "RelativeToolTip": "Lab\\Views\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T15:51:52.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakeUp.aspx.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\INSERT\\MakeUp.aspx.cs",
+              "RelativeDocumentMoniker": "Lab\\Views\\INSERT\\MakeUp.aspx.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\INSERT\\MakeUp.aspx.cs",
+              "RelativeToolTip": "Lab\\Views\\INSERT\\MakeUp.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:39:47.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageMakeUp.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\ManageMakeUp.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\ManageMakeUp.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\ManageMakeUp.aspx",
+              "RelativeToolTip": "Lab\\Views\\ManageMakeUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T09:47:02.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brand.aspx.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\INSERT\\Brand.aspx.cs",
+              "RelativeDocumentMoniker": "Lab\\Views\\INSERT\\Brand.aspx.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\INSERT\\Brand.aspx.cs",
+              "RelativeToolTip": "Lab\\Views\\INSERT\\Brand.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:37:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\Database.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\Database.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\Database.cs",
+              "RelativeToolTip": "Lab\\Repository\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Brand.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\INSERT\\Brand.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\INSERT\\Brand.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\INSERT\\Brand.aspx",
+              "RelativeToolTip": "Lab\\Views\\INSERT\\Brand.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T15:37:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeHandler.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Handler\\TypeHandler.cs",
+              "RelativeDocumentMoniker": "Lab\\Handler\\TypeHandler.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Handler\\TypeHandler.cs",
+              "RelativeToolTip": "Lab\\Handler\\TypeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:35:45.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homepage.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Homepage.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\Homepage.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Homepage.aspx",
+              "RelativeToolTip": "Lab\\Views\\Homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T09:47:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageMakeUp.aspx.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\ManageMakeUp.aspx.cs",
+              "RelativeDocumentMoniker": "Lab\\Views\\ManageMakeUp.aspx.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\ManageMakeUp.aspx.cs",
+              "RelativeToolTip": "Lab\\Views\\ManageMakeUp.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:51:55.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LabProject.Designer.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Models\\LabProject.Designer.cs",
+              "RelativeDocumentMoniker": "Lab\\Models\\LabProject.Designer.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Models\\LabProject.Designer.cs",
+              "RelativeToolTip": "Lab\\Models\\LabProject.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:35:37.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LabProject.Context.tt",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Models\\LabProject.Context.tt",
+              "RelativeDocumentMoniker": "Lab\\Models\\LabProject.Context.tt",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Models\\LabProject.Context.tt",
+              "RelativeToolTip": "Lab\\Models\\LabProject.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-16T15:32:51.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrandRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\BrandRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\BrandRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\BrandRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\BrandRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LabProject.edmx [Diagram1]",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Models\\LabProject.edmx",
+              "RelativeDocumentMoniker": "Lab\\Models\\LabProject.edmx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Models\\LabProject.edmx [Diagram1]",
+              "RelativeToolTip": "Lab\\Models\\LabProject.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-16T15:32:44.396Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderMakeup.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\OrderMakeup.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\OrderMakeup.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\OrderMakeup.aspx",
+              "RelativeToolTip": "Lab\\Views\\OrderMakeup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T09:47:01.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Profile.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\Profile.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Profile.aspx",
+              "RelativeToolTip": "Lab\\Views\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T09:46:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MakeUp.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\UPDATE\\MakeUp.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\UPDATE\\MakeUp.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\UPDATE\\MakeUp.aspx",
+              "RelativeToolTip": "Lab\\Views\\UPDATE\\MakeUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T09:46:51.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:44:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\UserRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TypeRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\TypeRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\TypeRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\TypeRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\TypeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionHeaderRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\TransactionHeaderRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\TransactionHeaderRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\TransactionHeaderRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\TransactionHeaderRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:52.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransactionDetailRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\TransactionDetailRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\TransactionDetailRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\TransactionDetailRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\TransactionDetailRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:39.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "Lab\\Views\\Login.aspx",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Views\\Login.aspx",
+              "RelativeToolTip": "Lab\\Views\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T09:47:04.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartRepo.cs",
+              "DocumentMoniker": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\CartRepo.cs",
+              "RelativeDocumentMoniker": "Lab\\Repository\\CartRepo.cs",
+              "ToolTip": "S:\\Tugas Kuliah\\Lab-PSD\\Lab\\Repository\\CartRepo.cs",
+              "RelativeToolTip": "Lab\\Repository\\CartRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:05:34.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

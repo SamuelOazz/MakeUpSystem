@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Transactions" msprop:Generator_RowEvHandlerName="TransactionsRowChangeEventHandler" msprop:Generator_RowDeletedName="TransactionsRowDeleted" msprop:Generator_RowDeletingName="TransactionsRowDeleting" msprop:Generator_RowEvArgName="TransactionsRowChangeEvent" msprop:Generator_TablePropName="Transactions" msprop:Generator_RowChangedName="TransactionsRowChanged" msprop:Generator_RowChangingName="TransactionsRowChanging" msprop:Generator_TableClassName="TransactionsDataTable" msprop:Generator_RowClassName="TransactionsRow" msprop:Generator_TableVarName="tableTransactions" msprop:Generator_UserTableName="Transactions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="transaction_id" msprop:Generator_ColumnPropNameInRow="transaction_id" msprop:Generator_ColumnPropNameInTable="transaction_idColumn" msprop:Generator_ColumnVarNameInTable="columntransaction_id" msprop:Generator_UserColumnName="transaction_id" type="xs:string" minOccurs="0" />
+              <xs:element name="user_id" msprop:Generator_ColumnPropNameInRow="user_id" msprop:Generator_ColumnPropNameInTable="user_idColumn" msprop:Generator_ColumnVarNameInTable="columnuser_id" msprop:Generator_UserColumnName="user_id" type="xs:string" minOccurs="0" />
+              <xs:element name="transaction_date" msprop:Generator_ColumnPropNameInRow="transaction_date" msprop:Generator_ColumnPropNameInTable="transaction_dateColumn" msprop:Generator_ColumnVarNameInTable="columntransaction_date" msprop:Generator_UserColumnName="transaction_date" type="xs:string" minOccurs="0" />
+              <xs:element name="grand_total" msprop:Generator_ColumnPropNameInRow="grand_total" msprop:Generator_ColumnPropNameInTable="grand_totalColumn" msprop:Generator_ColumnVarNameInTable="columngrand_total" msprop:Generator_UserColumnName="grand_total" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Transactions_Detail" msprop:Generator_RowEvHandlerName="Transactions_DetailRowChangeEventHandler" msprop:Generator_RowDeletedName="Transactions_DetailRowDeleted" msprop:Generator_RowDeletingName="Transactions_DetailRowDeleting" msprop:Generator_RowEvArgName="Transactions_DetailRowChangeEvent" msprop:Generator_TablePropName="Transactions_Detail" msprop:Generator_RowChangedName="Transactions_DetailRowChanged" msprop:Generator_RowChangingName="Transactions_DetailRowChanging" msprop:Generator_TableClassName="Transactions_DetailDataTable" msprop:Generator_RowClassName="Transactions_DetailRow" msprop:Generator_TableVarName="tableTransactions_Detail" msprop:Generator_UserTableName="Transactions_Detail">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="transaction_id" msprop:Generator_ColumnPropNameInRow="transaction_id" msprop:Generator_ColumnPropNameInTable="transaction_idColumn" msprop:Generator_ColumnVarNameInTable="columntransaction_id" msprop:Generator_UserColumnName="transaction_id" type="xs:string" minOccurs="0" />
+              <xs:element name="item_id" msprop:Generator_ColumnPropNameInRow="item_id" msprop:Generator_ColumnPropNameInTable="item_idColumn" msprop:Generator_ColumnVarNameInTable="columnitem_id" msprop:Generator_UserColumnName="item_id" type="xs:string" minOccurs="0" />
+              <xs:element name="item_price" msprop:Generator_ColumnPropNameInRow="item_price" msprop:Generator_ColumnPropNameInTable="item_priceColumn" msprop:Generator_ColumnVarNameInTable="columnitem_price" msprop:Generator_UserColumnName="item_price" type="xs:string" minOccurs="0" />
+              <xs:element name="quantity" msprop:Generator_ColumnPropNameInRow="quantity" msprop:Generator_ColumnPropNameInTable="quantityColumn" msprop:Generator_ColumnVarNameInTable="columnquantity" msprop:Generator_UserColumnName="quantity" type="xs:string" minOccurs="0" />
+              <xs:element name="sub_total" msprop:Generator_ColumnPropNameInRow="sub_total" msprop:Generator_ColumnPropNameInTable="sub_totalColumn" msprop:Generator_ColumnVarNameInTable="columnsub_total" msprop:Generator_UserColumnName="sub_total" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Transactions_Transactions_Detail" msdata:parent="Transactions" msdata:child="Transactions_Detail" msdata:parentkey="transaction_id" msdata:childkey="transaction_id" msprop:Generator_UserParentTable="Transactions" msprop:Generator_UserChildTable="Transactions_Detail" msprop:Generator_RelationVarName="relationTransactions_Transactions_Detail" msprop:Generator_ChildPropName="GetTransactions_DetailRows" msprop:Generator_ParentPropName="TransactionsRow" msprop:Generator_UserRelationName="Transactions_Transactions_Detail" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

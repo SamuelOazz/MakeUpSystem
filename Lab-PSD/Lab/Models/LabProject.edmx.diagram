@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fa46270680c24c179b2fd8eb12e7330b" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Cart" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.MakeUp" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.MakeUpBrand" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.MakeUpType" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TransactionDetail" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TransactionHeader" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.User" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Cart_MakeUp" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Cart_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_MakeUp_MakeUpBrand" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_MakeUp_MakeUpType" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_TransactionDetail_MakeUp" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_TransactionDetail_TransactionHeader" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_TransactionHeader_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

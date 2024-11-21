@@ -1,0 +1,228 @@
+D:\Data D\Semester 4\PSD\Lab\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+D:\Data D\Semester 4\PSD\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\Lab.dll.config
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\Lab.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\Lab.pdb
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\csc.exe
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\csc.exe.config
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\csc.rsp
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\csi.exe
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\csi.exe.config
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\csi.rsp
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.AppContext.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Collections.Immutable.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Console.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Globalization.Calendars.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.IO.Compression.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.IO.FileSystem.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Net.Http.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Net.Sockets.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.ValueTuple.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Xml.XPath.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\vbc.exe
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\vbc.exe.config
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\vbc.rsp
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\VBCSCompiler.exe
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\roslyn\VBCSCompiler.exe.config
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\EntityFramework.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\EntityFramework.SqlServer.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\EntityFramework.xml
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\EntityFramework.SqlServer.xml
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data D\Semester 4\PSD\Lab\Lab\obj\Debug\Lab.csproj.Up2Date
+D:\Data D\Semester 4\PSD\Lab\Lab\obj\Debug\Lab.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\obj\Debug\Lab.pdb
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportSource.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.Shared.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.Web.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Data D\Semester 4\PSD\Lab\Lab\bin\stdole.dll
+C:\Lab-PSD\Lab\bin\Lab.dll.config
+C:\Lab-PSD\Lab\bin\Lab.dll
+C:\Lab-PSD\Lab\bin\Lab.pdb
+C:\Lab-PSD\Lab\bin\roslyn\csc.exe
+C:\Lab-PSD\Lab\bin\roslyn\csc.exe.config
+C:\Lab-PSD\Lab\bin\roslyn\csc.rsp
+C:\Lab-PSD\Lab\bin\roslyn\csi.exe
+C:\Lab-PSD\Lab\bin\roslyn\csi.exe.config
+C:\Lab-PSD\Lab\bin\roslyn\csi.rsp
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Lab-PSD\Lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.AppContext.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Collections.Immutable.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Console.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Globalization.Calendars.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.IO.Compression.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.IO.FileSystem.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Net.Http.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Net.Sockets.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.ValueTuple.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Xml.XPath.dll
+C:\Lab-PSD\Lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Lab-PSD\Lab\bin\roslyn\vbc.exe
+C:\Lab-PSD\Lab\bin\roslyn\vbc.exe.config
+C:\Lab-PSD\Lab\bin\roslyn\vbc.rsp
+C:\Lab-PSD\Lab\bin\roslyn\VBCSCompiler.exe
+C:\Lab-PSD\Lab\bin\roslyn\VBCSCompiler.exe.config
+C:\Lab-PSD\Lab\bin\EntityFramework.dll
+C:\Lab-PSD\Lab\bin\EntityFramework.SqlServer.dll
+C:\Lab-PSD\Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Lab-PSD\Lab\bin\stdole.dll
+C:\Lab-PSD\Lab\bin\EntityFramework.xml
+C:\Lab-PSD\Lab\bin\EntityFramework.SqlServer.xml
+C:\Lab-PSD\Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Lab-PSD\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+C:\Lab-PSD\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Lab-PSD\Lab\obj\Debug\Lab.csproj.Up2Date
+C:\Lab-PSD\Lab\obj\Debug\Lab.dll
+C:\Lab-PSD\Lab\obj\Debug\Lab.pdb
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\Lab.dll.config
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\Lab.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\Lab.pdb
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\csc.exe
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\csc.exe.config
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\csc.rsp
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\csi.exe
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\csi.exe.config
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\csi.rsp
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.Managed.Core.targets
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.AppContext.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Collections.Immutable.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Console.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Globalization.Calendars.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.IO.Compression.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.IO.FileSystem.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Net.Http.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Net.Sockets.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Reflection.Metadata.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.ValueTuple.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Xml.XPath.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\vbc.exe
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\vbc.exe.config
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\vbc.rsp
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\VBCSCompiler.exe
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\VBCSCompiler.exe.config
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\EntityFramework.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\EntityFramework.SqlServer.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\stdole.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\EntityFramework.xml
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\EntityFramework.SqlServer.xml
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Tugas Kuliah\Lab-PSD\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+S:\Tugas Kuliah\Lab-PSD\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+S:\Tugas Kuliah\Lab-PSD\Lab\obj\Debug\Lab.csproj.Up2Date
+S:\Tugas Kuliah\Lab-PSD\Lab\obj\Debug\Lab.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\obj\Debug\Lab.pdb
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Buffers.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Memory.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Numerics.Vectors.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\log4net.dll
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\log4net.pdb
+S:\Tugas Kuliah\Lab-PSD\Lab\bin\log4net.xml
